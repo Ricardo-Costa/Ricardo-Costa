@@ -1,7 +1,7 @@
 ### Hello 👋, get to know a little bit about me...
 
 <!--
-**Ricardo-Costa/Ricardo-Costa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ricardo-Costa/Ricardo-Costa** is a ✨ _special_ ✨ repository because its **`README.md`** (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,12 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔥 `Software developer` with 8 years of experience.
-
-🚀 Experience also in `DevOps` activities, development team leadership and `development of large systems`.
-
-🌩️ Familiarity with cloud provider environments such as: `AWS, Digital Ocean, Heroku` and others.
-
-✨ Great practice with programming languages: `JavaScript/NodeJs, PHP` and `Go`.
-
-🌍 Specialist in `web applications`.
+🔥 **`Software developer`** with 8 years of experience.<br>
+🚀 Experience also in **`DevOps`** activities, development team leadership and **`development of large systems`**.<br>
+🌩️ Familiarity with cloud provider environments such as: **`AWS, Digital Ocean, Heroku`** and others.<br>
+✨ Great practice with programming languages: **`JavaScript/NodeJs, PHP`** and **`Go`**.<br>
+🌍 Specialist in **`web applications`**.
