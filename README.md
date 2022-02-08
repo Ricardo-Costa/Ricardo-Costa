@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 🔥 **`Software developer`** with 8 years of experience.<br>
 🚀 Experience also in **`DevOps`** activities, development team leadership and **`development of large systems`**.<br>
 🌩️ Familiarity with cloud provider environments such as: **`AWS, Digital Ocean, Heroku`** and others.<br>
-✨ Great practice with programming languages: **`JavaScript/NodeJs/TypeScript, PHP`** and **`GoLang`**.<br>
+✨ Great practice with programming languages: **`JavaScript/NodeJs/TypeScript, PHP`**, **`GoLang`** and **`Bash`**.<br>
 🌍 Specialist in **`web applications`**.
