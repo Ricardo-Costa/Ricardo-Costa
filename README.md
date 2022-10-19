@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔥 **`Software developer`** with 8 years of experience.<br>
+🔥 **`Software developer`** with 9 years of experience.<br>
 🚀 Experience also in **`DevOps`** activities, development team leadership and **`development of large systems`**.<br>
-🌩️ Familiarity with cloud provider environments such as: **`AWS, Digital Ocean, Heroku`** and others.<br>
-✨ Great practice with programming languages: **`JavaScript/NodeJs/TypeScript, PHP`**, **`GoLang`** and **`Bash`**.<br>
+🌩️ Familiarity with cloud provider environments such as: **`AWS, Digital Ocean, Vercel, Heroku`** and others.<br>
+✨ Great practice with programming languages and tools:
+- **`JavaScript/NodeJs/TypeScript, PHP`**, **`GoLang`** and **`Bash`**.<br>
+- **`Docker`**, **`Terraform`**, **`NestJs/ExpressJs`**, **`ReactJs`**, **`Serverless framework`**, **`Travis CI/CD & Github Actions`**, etc...<br>
 🌍 Specialist in **`web applications`**.
