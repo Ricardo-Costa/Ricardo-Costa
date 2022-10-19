@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 🚀 Experience also in **`DevOps`** activities, development team leadership and **`development of large systems`**.<br>
 🌩️ Familiarity with cloud provider environments such as: **`AWS, Digital Ocean, Vercel, Heroku`** and others.<br>
 ✨ Great practice with programming languages and tools:
-- **`JavaScript/NodeJs/TypeScript, PHP`**, **`GoLang`** and **`Bash`**.<br>
-- **`Docker`**, **`Terraform`**, **`NestJs/ExpressJs`**, **`ReactJs`**, **`Serverless framework`**, **`Travis CI/CD & Github Actions`**, etc...<br>
+  - **`JavaScript/NodeJs/TypeScript, PHP`**, **`GoLang`** and **`Bash`**.<br>
+  - **`Docker`**, **`Terraform`**, **`NestJs/ExpressJs`**, **`ReactJs`**, **`Serverless framework`**, **`Travis CI/CD & Github Actions`**, etc...
 🌍 Specialist in **`web applications`**.
